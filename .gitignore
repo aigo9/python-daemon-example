@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# python-daemon-example
+*.pid
+*.log
+*.stdout
+*.stderr
+venv27
+venv35
+
